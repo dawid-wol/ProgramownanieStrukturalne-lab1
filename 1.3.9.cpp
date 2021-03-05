@@ -38,7 +38,7 @@ int main()
         break;
     }
     default:
-        cout << "Blad S- nieprawidlowe polecenie." << endl;
+        cout << "Blad - nieprawidlowe polecenie." << endl;
     }
     return 0;
 }
